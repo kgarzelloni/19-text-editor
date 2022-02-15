@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "engines": {
-    "node": "16.x",
+    "node": "16.13.1"
   },
   "scripts": {
     "start:dev": "concurrently \"cd client && npm run build\" \"cd server && npm run server\" ",
