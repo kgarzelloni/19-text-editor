@@ -45,7 +45,7 @@ https://github.com/kgarzelloni/19-text-editor
 
 ## Link to Deployed Page on Heroku
 
-https://git.heroku.com/texteditor-19.git
+https://texteditor-19.herokuapp.com/
 
 
 
